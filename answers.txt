@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Francis Angelo Victorio
+1) Linus Torvalds
+2) also creator of Linux kernal
+3) 2005
+4) git init
+5) upload from local repositoty to remote repository
+6) tells git not to track certain files
+7) a fork is a clone of a project repo on your local system. Having a fork is so that you can experiment with the project without changing the main code.
+8) A clone is a linked copy that will synchronize with users. There are no specific limits.
+9) No
+10) True
